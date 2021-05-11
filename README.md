@@ -1,6 +1,6 @@
 # GenderDiversityCalc
 
-Foobar is a Python library for dealing with word pluralization.
+GenderDiversityCalc is for understanding how much time women/men speaking and calculating a gender diversity ratio based on both total women and total men speaking time
 
 ## Installation
 
