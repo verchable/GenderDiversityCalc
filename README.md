@@ -40,3 +40,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
+The code of GenderDiversityCalc is under Apache License 2.0
