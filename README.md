@@ -1,6 +1,8 @@
 # GenderDiversityCalc
 
-GenderDiversityCalc is for understanding how much time women/men speaking and calculating a gender diversity ratio based on both total women and total men speaking time
+GenderDiversityCalc is for understanding how much time women/men speaking and calculating a gender diversity ratio based on both total women and total men speaking time. In each video, we detect and track all people and we understand the "talking" action. Moreover, we also apply gender recognition. Finally, we have exact times of people talking and total speaking time of female and male speakers. 
+
+The original problem was proposed by [VRT](https://www.vrt.be/en/) (national public-service broadcaster for Belgium) and it was one of the major challenges opened by [European Data Incubator](https://edincubator.eu/). 
 
 ## Installation
 
