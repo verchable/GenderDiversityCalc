@@ -4,7 +4,7 @@ GenderDiversityCalc is for understanding how much time women/men speaking and ca
 
 The original problem was proposed by [VRT](https://www.vrt.be/en/) (national public-service broadcaster for Belgium) and it was one of the major challenges opened by [European Data Incubator](https://edincubator.eu/). 
 
-![Demo](https://user-images.githubusercontent.com/35141923/118426249-caf69380-b6c2-11eb-9ef9-185ff690af98.mp4)
+[Demo](https://user-images.githubusercontent.com/35141923/118426249-caf69380-b6c2-11eb-9ef9-185ff690af98.mp4)
 ## Installation
 
 For [face recognition](https://github.com/deepinsight/insightface)
