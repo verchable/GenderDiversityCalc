@@ -27,6 +27,9 @@ For [SceneDetection](https://github.com/Breakthrough/PySceneDetect/)
 ```bash
 pip install scenedetect
 ```
+
+For [Tracking](https://github.com/nwojke/deep_sort), please follow the instructions
+
 Other installation
 ```bash
 apt install ffmpeg
